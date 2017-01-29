@@ -19,7 +19,8 @@ NPM, Libsass, Normalize.css, Gulp и множество утилит для не
 
 ### styles/
 
-* **normalize/_normalize.css _нормализация стилей_
+* **normalize/**
+  * _normalize.css _нормализация стилей_
 * **test_category/** 
   * _test.scss
 * **styles.less** _точка входа для всех стилей_
